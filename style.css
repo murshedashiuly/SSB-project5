@@ -1,0 +1,33 @@
+body {
+  background-color: lightblue;
+}
+h2{
+	color: white;
+	text-align:center;
+	height:57px;
+	font-size: 37px;
+	
+	
+}
+blockquote{
+	background-color: #008080;
+	color:white;
+	font-size: 20px;
+	
+}
+img{
+	height:300px;
+	width:30%;
+}
+table, th, td {
+  border: 1px solid black;
+  height:50px;
+  width:60px;
+}
+
+
+	
+
+
+	
+
